@@ -1,0 +1,24 @@
+.ui-datepicker-other-month{
+    background: gray;
+}
+
+td.invalid a{
+    background: gray !important ;    
+}
+
+td.highlight {
+    border: none !important;
+    padding: 1px 0 1px 1px !important;
+    background: none !important;
+    overflow: hidden;
+}
+
+td.highlight a {
+    background: #9aee75 50% 50% repeat-x !important;
+    border: 1px #88a276 solid !important;
+}
+
+td.ui-datepicker-week-end a{ 
+    background: yellow !important ;
+}
+
