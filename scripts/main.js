@@ -1,5 +1,3 @@
-console.log("I am in");
-
 $(document).ready(function(){
     $("#calendar").datepicker({
         dateFormat:'dd/mm/yy',
